@@ -1,4 +1,5 @@
 Cadastro de Notas com Tkinter
+Atenção: A data do repositório não representa a data que fiz o projeto.
 
 Este projeto é uma aplicação GUI (Interface Gráfica do Usuário) desenvolvida com Tkinter para o cadastro de notas de alunos.
 Índice
